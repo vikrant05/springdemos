@@ -1,2 +1,2 @@
 # springdemos
-Spring example code
+Spring examples
